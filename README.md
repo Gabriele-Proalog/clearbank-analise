@@ -1,6 +1,6 @@
 # Desafio Final - ClearBank
 
-Projeto do desafio final do módulo **Análise de Dados e Inteligência de Negócios com IA** (POS em IA).
+Projeto do desafio final do módulo **Análise de Dados e Inteligência de Negócios com IA**.
 
 ## Descrição
 
